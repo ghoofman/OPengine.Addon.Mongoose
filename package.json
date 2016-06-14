@@ -1,0 +1,12 @@
+{
+  "id": "mongoose",
+  "name": "Mongoose Wrapper",
+  "version": "6.4.0",
+  "OPengine": ">=0.4.7",
+  "git": {
+	"url": "https://github.com/cesanta/mongoose",
+	"branch": "master",
+	"commit": "a67323fc1216d955b68c4d87a91fee355adbf6bb"
+  },
+  "commerical": false
+}
